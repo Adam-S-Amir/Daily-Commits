@@ -1,0 +1,1 @@
+cd "C:/Users/Potato_EatMyTv/Documents/GitHub/Daily-Commits" & "C:/Users/Potato_EatMyTv/AppData/Local/Programs/Python/Python312/python3.exe" "C:/Users/Potato_EatMyTv/Documents/GitHub/Daily-Commits/main.py"
