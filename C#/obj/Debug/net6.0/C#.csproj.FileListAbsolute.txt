@@ -13,3 +13,6 @@ C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\refin
 C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\C#.pdb
 C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
 C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\ref\C#.dll
+C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\bin\Debug\net6.0\YamlDotNet.dll
+C:\Users\Potato_EatMyTv\Documents\GitHub\Daily-Commits\C#\obj\Debug\net6.0\C#.csproj.Up2Date

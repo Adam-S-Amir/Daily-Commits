@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NaQSQ1YBlFYGW1VqMejYoiQxDeTcYtofnfz3MdGoW4sgxNJEbeCb80ZZyZbOo79tqb0ndQSm4oeXzjBRlLO8YQ==",
+  "dgSpecHash": "dbjwTescEDdMdr7UzaI5961kpdW++0WIgEw5K+Tpra0+EJ7Tiu0vo77kIBEbP4vlb05a3RB/dHfk65g2xXcGsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Potato_EatMyTv\\Documents\\GitHub\\Daily-Commits\\C#\\C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Potato_EatMyTv\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
